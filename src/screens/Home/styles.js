@@ -13,6 +13,8 @@ export const Header = styled.View`
     justify-content: space-between;
 `
 
+export const Container = styled.ScrollView``
+
 export const BalanceContainer = styled.View`
 
 `;
