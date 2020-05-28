@@ -1,7 +1,7 @@
 import styled from 'styled-components/native';
 import { LinearGradient } from 'expo-linear-gradient';
 
-export const Wrapper = styled.View`
+export const Wrapper = styled.ScrollView`
     background: #000;
     flex: 1;
 `;
